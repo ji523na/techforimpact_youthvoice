@@ -1,11 +1,9 @@
-# techforimpact_youthvoice
-
-<h1> 안녕하세요 </h1>
-이렇게 하는건강
-싱기해요
-오
-
-<h3> hi </h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=200&section=header&text=VIVAMINI&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40" alt="header">
+</div>
+<div align="center">
+  <h2>Welcome to my Our project!</h2>
+</div>
 
 # [Project Name]
 ## 📌 Overview
