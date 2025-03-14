@@ -14,8 +14,8 @@ Short description of the project
 - Feature 2
 
 ## 🛠️ How to Set Up
-  1. Install dependencies : 'nps install'
-  2. Run the project : 'spm start'
+  1. Install dependencies : 'npm install'
+  2. Run the project : 'npm start'
  
  ## 👥 Contributors
   List team members.
